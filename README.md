@@ -46,7 +46,7 @@ And seeing that Cubemath's Anti-Sink works "good" I tried to do some improvments
 
 ## Credits
 
-* Base of this code [Cubemath DD10 plugin](https://github.com/CubeMath/UCHFastDL2/blob/master/svencoop/scripts/plugins/cubemath/SinkingShip3.as)
+* Base of this code [Cubemath SinkingShip3 plugin](https://github.com/CubeMath/UCHFastDL2/blob/master/svencoop/scripts/plugins/cubemath/SinkingShip3.as)
 
 Any features/feedback to add please contact me `Gaftherman#0231` or join to this discord channel [Discord server](https://discord.gg/VsNnE3A7j8).
 Thx for read this :D
